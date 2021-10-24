@@ -1,3 +1,5 @@
+<b>Hi there</b>
+
 - 👋 Hi, I’m @PrimeEmit
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python
