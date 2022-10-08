@@ -1,6 +1,6 @@
 <b>Hi there</b>
 
-- 👋 Hi, I’m @PrimeEmit
+- 👋 Hi, I’m @Rittik Raushan
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python
 
