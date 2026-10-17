@@ -1,9 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rittik%20Raushan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%7C%20AI%20%26%20Machine%20Learning&descAlignY=58&descSize=18" width="100%" />
-</p>
+<h1 align="center">Rittik Raushan</h1>
+<p align="center">Computer Science | AI & Machine Learning</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Passionate+about+building+and+learning;Solving+DSA+on+LeetCode;Exploring+AI+%26+Machine+Learning;Learning+by+building+real+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Passionate+about+building+and+learning;Solving+DSA+on+LeetCode;Exploring+AI+%26+Machine+Learning" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,7 +12,6 @@
 </p>
 
 ---
-
 ## About Me
 
 Computer Science student exploring **AI and Machine Learning**. Focusing on practical coding and problem solving, Learning best by building real-world projects, improving step by step.
